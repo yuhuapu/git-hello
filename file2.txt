@@ -1,4 +1,8 @@
 new feature
+<<<<<<< HEAD
 bug fixed
 dawdawdawd
 11111
+=======
+22222
+>>>>>>> my-first-branch
